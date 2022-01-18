@@ -15,16 +15,20 @@ First repo
   
  ## Basic Bash Command
 
-  'pwd' print current woking directory
+ 'pwd' print current woking directory
   
-  'cd' change directory
+ 'cd' change directory
   
-  'ls' list content
+ 'ls' list content
   
-  'ls -a' list all files
+ 'ls -a' list all files
   
-  'mkdir' make directory
+ 'mkdir' make directory
   
-  'touch' create a dummy file placeholder
+ 'touch' create a dummy file placeholder
+ 
+ 'cat' to concatenate or display file to stdout
+ 
+ 'echo' to print to screen
   
-  
+ 'echo >> file" to redirect output to a file
